@@ -3,7 +3,7 @@
 This is my first try at github!
 <!DOCTYPE html>
 <html>
-    <head><meta property="fb:pages" content="706433213140809" />
+    <head><meta property="fb:pages" content="706433213140809" /></head>
         <!-- head definitions go here -->
     </head>
     <body>
